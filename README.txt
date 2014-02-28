@@ -3,16 +3,16 @@ Contributors: stian4000
 Donate link: www.påskenøtter.com
 Tags: påskenøtter
 Requires at least: 3.0.0
-Tested up to: 3.6
+Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Add your advent-calendar (from www.advent-calendar.net) to any page or post in Wordpress. We do not recommend displaying it in a widget area unless the width of the area is at least equal to an iPhone screen.
+Add your Easter Quiz to any page or post in Wordpress. We do not recommend displaying it in a widget area unless the width of the area is at least equal to an iPhone screen.
 
-Use the [my_calendar] shortcode to display calendar in any page/post.
+Use the [easter_quiz] shortcode to display calendar in any page/post.
 
 **Available options**
 
@@ -25,17 +25,17 @@ See FAQ for further description and examples.
 
 == Installation ==
 
-1. Upload My-Christmas-Calendar to the `/wp-content/plugins/` directory or simply download it from Wordpress.
+1. Upload Paaskenoetter to the `/wp-content/plugins/` directory or simply download it from Wordpress.
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to the Settings menu and edit My-Christmas-Calendar Settings
-1. Type in your advent-calendar.net web address
-1. Paste the [my_calendar] shortcode into any page/post (see FAQ for more options)
+1. Go to the Settings menu and edit Easter Quiz Settings
+1. Type in your web address [ demo.paskenotter.no ]
+1. Paste the [easter_quiz] shortcode into any page/post (see FAQ for more options)
 
 == Frequently Asked Questions ==
 = Exampels & options =
 
-* Basic: [my_calendar]
-* With opitional attributes [my_calendar width="810px" height="800px" border="3" bordercolor="000000"] - notation is optional.
+* Basic: [easter_quiz]
+* With opitional attributes [easter_quiz width="810px" height="800px" border="3" bordercolor="000000"] - notation is optional.
 
 == Changelog ==
 
